@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@cemalgnlts/mailjs": "^3.0.1",
+    "axios": "^1.6.8",
+    "chalk": "^4.1.2",
+    "generate-password": "^1.7.1",
+    "readline": "^1.3.0"
+  }
+}
